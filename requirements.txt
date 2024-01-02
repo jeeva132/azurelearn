@@ -17,4 +17,4 @@ python-dateutil
 python-dotenv
 SQLAlchemy
 Werkzeug
-urllib
+
